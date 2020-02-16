@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Implementation-Title: HelloWorldDevopsSpringProject
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: Murali
+Implementation-Vendor-Id: HelloWorldDevopsSpringProject
+Build-Jdk: 1.8.0_231
+Implementation-URL: http://projects.spring.io/spring-boot/HelloWorldDe
+ vopsSpringProject/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
